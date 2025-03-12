@@ -46,21 +46,19 @@ header {
   color: hsl(180, 100%, 80%);
   font-size: 2vw;
   text-align: right;
-  margin-right: 40px;
-  margin-bottom: -5vh;
+  margin-bottom: 10vh;
+  margin-right: 5vh;
 }
 
 .hero-header {
   font-family: "Source Serif 4", serif;
-  font-size: 15vw;
+  font-size: 10vw;
   font-weight: 400;
   text-align: center;
   display: flex;
-  margin-right: 5vh;
   flex-direction: column;
-  color: hsl(180, 100%, 65%);
+  color: hsl(180, 100%, 80%);
   text-transform: uppercase;
-  margin-bottom: -6.5vh;
 }
 
 .show-case-image-1 {
