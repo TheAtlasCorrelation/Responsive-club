@@ -91,3 +91,65 @@ header {
   width: 48.4vh;
   height: 35vh;
 }
+.available-times-header {
+  font-family: "Source Serif 4", serif;
+  font-size: 5vw;
+  font-weight: 400;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  color: hsl(240, 50%, 10%);
+  text-transform: uppercase;
+}
+.available-times-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 5vh;
+}
+.available-times-list {
+  font-family: "Source Serif 4", serif;
+  font-size: 2vw;
+  color: hsl(240, 50%, 10%);
+  text-align: center;
+}
+.available-times-list-item {
+  margin-top: 2vh;
+}
+.cta-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10vh;
+  height: 75vh;
+}
+.name {
+  font-family: "Source Serif 4", serif;
+  font-size: 2vw;
+  color: hsl(240, 50%, 10%);
+  margin-bottom: 1vh;
+}
+
+.email {  
+  font-family: "Source Serif 4", serif;
+  font-size: 2vw;
+  color: hsl(240, 50%, 10%);
+  margin-bottom: 1vh;
+}
+.cta-form-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#name {
+  width: 20vh;
+  height: 3vh;
+  margin-bottom: 1vh;
+}
+
+#email {
+  width: 20vh;
+  height: 3vh;
+}
