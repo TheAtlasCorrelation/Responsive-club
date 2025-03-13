@@ -144,12 +144,18 @@ header {
   align-items: center;
 }
 #name {
-  width: 20vh;
+  width: 30vh;
   height: 3vh;
   margin-bottom: 1vh;
 }
 
 #email {
-  width: 20vh;
+  width: 30vh;
   height: 3vh;
+}
+
+#message {
+  width: 30vh;
+  height: 10vh;
+  margin-bottom: 1vh;
 }
