@@ -14,15 +14,16 @@ nav {
 .nav-wrapper {
   display: flex;
   gap: 20px;
-  flex-direction: column;
+  flex-direction: row;
   text-align: right;
   padding-right: 40px;
+  padding-left: 80vh;
 }
 
 .nav-link {
   font-family: "Source Serif 4", serif;
   text-decoration: none;
-  color: hsl(180, 100%, 50%);
+  color: hsl(255, 100%, 50%);
   font-size: 20px;
 }
 
@@ -60,7 +61,16 @@ header {
   color: hsl(180, 100%, 80%);
   text-transform: uppercase;
 }
-
+.show-case-header {
+  font-family: "Source Serif 4", serif;
+  font-size: 5vw;
+  font-weight: 400;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  color: hsl(240, 50%, 10%);
+  text-transform: uppercase;
+}
 .show-case-image-1 {
   margin-left: 0.25vh;
   width: 48.4vh;
