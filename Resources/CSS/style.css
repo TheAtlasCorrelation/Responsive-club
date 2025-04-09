@@ -1,6 +1,6 @@
 body {
   background-color: hsl(100, 100%, 81%);
-  font-family: "Source Serif 4", serif;
+  font-family: "Oswald", serif;
   margin: 0;
   padding: 0;
 }
@@ -21,7 +21,7 @@ nav {
 }
 
 .nav-link {
-  font-family: "Source Serif 4", serif;
+  font-family: "Oswald", serif;
   text-decoration: none;
   color: hsl(255, 100%, 50%);
   font-size: 20px;
@@ -43,7 +43,7 @@ header {
 }
 
 .hero-paragraph {
-  font-family: "Source Serif 4", serif;
+  font-family: "Oswald", serif;
   color: hsl(180, 100%, 80%);
   font-size: 2vw;
   text-align: right;
@@ -53,7 +53,7 @@ header {
 
 .hero-header {
   font-family: "Oswald", serif;
-  font-size: 10vw;
+  font-size: 11vw;
   font-weight: 400;
   text-align: center;
   display: flex;
@@ -92,7 +92,7 @@ header {
   height: 35vh;
 }
 .available-times-header {
-  font-family: "Source Serif 4", serif;
+  font-family: "", serif;
   font-size: 5vw;
   font-weight: 400;
   text-align: center;
@@ -108,7 +108,7 @@ header {
   margin-top: 5vh;
 }
 .available-times-list {
-  font-family: "Source Serif 4", serif;
+  font-family: "Oswald", serif;
   font-size: 2vw;
   color: hsl(240, 50%, 10%);
   text-align: center;
@@ -125,14 +125,14 @@ header {
   height: 75vh;
 }
 .name {
-  font-family: "Source Serif 4", serif;
+  font-family: "Oswald", serif;
   font-size: 2vw;
   color: hsl(240, 50%, 10%);
   margin-bottom: 1vh;
 }
 
 .email {  
-  font-family: "Source Serif 4", serif;
+  font-family: "Oswald", serif;
   font-size: 2vw;
   color: hsl(240, 50%, 10%);
   margin-bottom: 1vh;
