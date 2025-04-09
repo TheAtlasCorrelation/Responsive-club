@@ -52,17 +52,17 @@ header {
 }
 
 .hero-header {
-  font-family: "Source Serif 4", serif;
+  font-family: "Oswald", serif;
   font-size: 10vw;
   font-weight: 400;
   text-align: center;
   display: flex;
   flex-direction: column;
-  color: hsl(180, 100%, 80%);
+  color: hsl(30, 60%, 40%);
   text-transform: uppercase;
 }
 .show-case-header {
-  font-family: "Source Serif 4", serif;
+  font-family: "Oswald", serif;
   font-size: 5vw;
   font-weight: 400;
   text-align: center;
